@@ -73,8 +73,38 @@ img{
     margin-right: 5px;
     font-size: 5px;
 }
+/* ABSOLUT */
+.discordcube{
+    position: absolute;
+    width: 120px;
+    top: -20%;
+    right: 64%;
+}
 /* First card */
 
 .firstcard{
-    
+    min-height: 200px;
+    position: relative;
+
 }
+/* CONTAINER */
+.container{
+background-image: linear-gradient(to bottom, rgba(84, 96, 232), rgba(50, 54, 143));
+min-height: 330px;
+margin: 0 auto;
+max-width: 450px;
+text-align:center;
+position: relative;
+color: white;
+border-radius: 20px;
+text-align: left;
+}
+/* TITOLETTI */
+.titoletto{
+    padding-top: 60px;
+    padding-left: 30px;
+}
+.testo{
+ padding: 10px 30px 20px 30px;
+}
+
