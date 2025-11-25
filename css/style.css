@@ -107,10 +107,11 @@ text-align: left;
  padding: 10px 30px 10px 30px;
 }
 .primovideo{
-    min-height: 100%;
-    max-width: 100%;
+    max-width: 85%;
     border-radius: 20px;
     margin-bottom: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
     
 }
 /* SECOND CARD */
