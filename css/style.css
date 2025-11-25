@@ -80,6 +80,13 @@ img{
     top: -8%;
     right: 64%;
 }
+
+.eyes{
+      position: absolute;
+    width: 120px;
+    top: -8%;
+    right: 64%;
+}
 /* First card */
 
 .firstcard{
@@ -106,6 +113,9 @@ text-align: left;
 .testo{
  padding: 10px 30px 10px 30px;
 }
+
+/* video */
+
 .primovideo{
     max-width: 85%;
     border-radius: 20px;
@@ -114,15 +124,9 @@ text-align: left;
     margin-right: 30px;
     
 }
-/* SECOND CARD */
+/* Margin for the section */
 
 .marginforsection{
 margin-top: 50px;
 }
 
-.eyes{
-      position: absolute;
-    width: 120px;
-    top: -8%;
-    right: 64%;
-}
