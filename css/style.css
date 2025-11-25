@@ -41,7 +41,7 @@ img{
 }
 /* Button */
 
-.button{
+.bothbutton{
     min-height: 200px;
     margin: 20px;
     text-align: center;
@@ -67,8 +67,14 @@ img{
     background-color: rgba(88, 101, 242);
     color:white
 }
-.downloadicon{
+/* ICON */
+.bi-cloud-download{
     margin-bottom: 6px;
     margin-right: 5px;
     font-size: 5px;
+}
+/* First card */
+
+.firstcard{
+    
 }
