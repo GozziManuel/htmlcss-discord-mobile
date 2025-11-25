@@ -5,13 +5,37 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+/* BODY */
+body{
+    background-color: rgba(25, 29, 123);
+    
+}
+/* Font */
+.sigmar{
+    font-family: "Sigmar", sans-serif;
+    color: white;
+    font-size: 40px;
+}
+.sans{
+    font-family: "Dm Sans", sans-serif;
+    color: white;
+}
+/* Header */
 img{
     max-width: 100%;
     display: block;
 }
 
-body{
-    background-color: rgba(25, 29, 123);
+/* FIRST SECTION */
+.firstsection{
+    min-height: 300px;
+    margin: 0 auto;
+    max-width: 400px;
+    text-align:center;
+    position: relative;
+}
+.firstext{
+    position: absolute;
+    top: 30%;
     
 }
