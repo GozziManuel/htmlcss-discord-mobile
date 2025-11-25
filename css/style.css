@@ -13,12 +13,11 @@ body{
 /* Font */
 .sigmar{
     font-family: "Sigmar", sans-serif;
-    color: white;
     font-size: 40px;
 }
 .sans{
     font-family: "Dm Sans", sans-serif;
-    color: white;
+    font-size: 18px;
 }
 /* Header */
 img{
@@ -28,14 +27,48 @@ img{
 
 /* FIRST SECTION */
 .firstsection{
-    min-height: 300px;
+    min-height: 330px;
     margin: 0 auto;
     max-width: 400px;
     text-align:center;
     position: relative;
+    color: white;
 }
 .firstext{
     position: absolute;
-    top: 30%;
+    top: 15%;
     
+}
+/* Button */
+
+.button{
+    min-height: 200px;
+    margin: 20px;
+    text-align: center;
+}
+
+.whitebutton{
+    margin-bottom: 20px;
+    min-height: 30px;
+    width: 90%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: none;
+    border-radius: 20px;   
+}
+.bluebutton{
+    margin-bottom: 10px;
+    min-height: 30px;
+    width: 90%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgba(88, 101, 242);
+    color:white
+}
+.downloadicon{
+    margin-bottom: 6px;
+    margin-right: 5px;
+    font-size: 5px;
 }
