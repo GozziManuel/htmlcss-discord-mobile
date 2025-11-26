@@ -77,15 +77,17 @@ img{
 .discordcube{
     position: absolute;
     width: 120px;
-    top: -8%;
-    right: 64%;
+    top: 0%;
+    transform: translate(50%, -50%);
+    right: 50%;
 }
 
 .eyes{
       position: absolute;
     width: 120px;
-    top: -8%;
-    right: 64%;
+    top: 0%;
+    transform: translate(50%, -50%);
+    right: 50%;
 }
 /* First card */
 
